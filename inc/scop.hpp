@@ -4,6 +4,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include </Users/wpoudre/.brew/include/GLFW/glfw3.h>
+#include <glfw3.h>
+#include <OpenGL/gl.h>
 
 #endif
